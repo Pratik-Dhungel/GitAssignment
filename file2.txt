@@ -1,0 +1,2 @@
+This is the file in branch2
+This will me merged with the master
