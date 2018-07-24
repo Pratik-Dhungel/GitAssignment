@@ -1,2 +1,2 @@
 This is the main file for directory1
-
+No changes needed. But git shows this file needs to be added. So now some changes have been made.
