@@ -1,2 +1,2 @@
 This is the main file in directory2
-
+Test 2.. Making changes to files in two directories
